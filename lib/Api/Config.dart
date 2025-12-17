@@ -1,9 +1,9 @@
 class Config {
   static const String oneSignel = "****************************";
   // For iOS Simulator use: 'http://localhost:8000/'
-  // For Android Emulator use: 'http://10.0.2.2:8000/'
+  // For Android Emulator use: 'http://93.127.202.7:8080/'
   // For Physical Device use your computer's IP: 'http://YOUR_IP:8000/'
-  static const String baseUrl = 'http://10.0.2.2:8000/';
+  static const String baseUrl = 'http://93.127.202.7:8080/';
   static const String imageurl = baseUrl;
 
   // ✅ Correct Path for Driver APIs
